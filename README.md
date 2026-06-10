@@ -19,7 +19,7 @@ A responsive calculator developed as part of the CodeAlpha Frontend Development 
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://bhavyamalviya0810.github.io/CodeAlpha_Calculator/
 
 ## Author
 Bhavya Malviya
